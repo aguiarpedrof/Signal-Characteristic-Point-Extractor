@@ -1,0 +1,19 @@
+# Gráficos gerados
+graficos/
+
+# Tabela gerada
+tabela_estatistica.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
